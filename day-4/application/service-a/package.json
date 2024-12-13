@@ -24,7 +24,7 @@
     "@opentelemetry/semantic-conventions": "^1.27.0",
     "axios": "^1.7.6",
     "dotenv": "^16.4.5",
-    "express": "^4.19.2",
+    "express": "^4.21.2",
     "morgan": "^1.10.0",
     "pino": "^9.2.0",
     "prom-client": "^15.1.2"
